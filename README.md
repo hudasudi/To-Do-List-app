@@ -15,15 +15,6 @@ This app allows users to manage their daily tasks, with saved data stored in the
 
 ---
 
-## 🧠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Local Storage API
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository:
