@@ -15,6 +15,12 @@ This app allows users to manage their daily tasks, with saved data stored in the
 
 ---
 
+## 🌟 Future Plans
+
+- Make the layout responsive for different devices
+
+---
+
 ## 🚀 How to Use
 
 1. Clone the repository:
