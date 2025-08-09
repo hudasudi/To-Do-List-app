@@ -19,3 +19,7 @@ This app allows users to manage their daily tasks, with saved data stored in the
 
 - Make the layout responsive for different devices
 
+---
+
+## 🚀 How to Run
+Just open `to-do-app.html` in your browser.
